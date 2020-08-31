@@ -1,0 +1,2 @@
+# play_ground_hydra_custom_dir
+hydraのカスタムディレクトリを使ってみる
